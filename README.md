@@ -13,7 +13,7 @@
 - 🤖 Exploring the world of **LLMs**, **LangChain**, and AI-powered applications
 - 🌱 Always learning and experimenting with new **AI tools** and frameworks
 - 💬 Ask me about **Python**, **APIs**, or **AI/ML integrations**
-- 📫 Reach me at: **[your email or LinkedIn]**
+- 📫 Reach me at: **yashwanth2005cs@gmail.com**
 
 ---
 
