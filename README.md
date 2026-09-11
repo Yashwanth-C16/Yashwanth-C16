@@ -1,10 +1,21 @@
-### Hi there, I'm Yashwanth 👋
+<div align="center">
 
-🎓 MCA student passionate about Backend Development and AI  
-🚀 Building with Python, FastAPI, and Django  
-🤖 Exploring the world of LLMs, LangChain, and AI-powered applications  
-🌱 Always learning and experimenting with new AI tools and frameworks  
-📫 Reach me at: yashwanth2005cs@gmail.com
+# Hi there, I'm Yashwanth 👋
+
+**MCA Student** | **Backend Developer** | **AI Explorer**
+
+</div>
+
+---
+
+- 🎓 **MCA student** passionate about **Backend Development** and **AI**
+- 🚀 Building with **Python**, **FastAPI**, and **Django**
+- 🤖 Exploring the world of **LLMs**, **LangChain**, and AI-powered applications
+- 🌱 Always learning and experimenting with new **AI tools** and frameworks
+- 💬 Ask me about **Python**, **APIs**, or **AI/ML integrations**
+- 📫 Reach me at: **[your email or LinkedIn]**
+
+---
 
 ## 🛠️ Tech Stack
 
